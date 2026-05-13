@@ -1,16 +1,30 @@
-## Hi there 👋
+# AI完全理解してない課
 
-<!--
-**ai-nantoka/ai-nantoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+文系寄り・非エンジニア寄り。
 
-Here are some ideas to get you started:
+AIに仕事を奪われる側だと思っていたのに、
+気づけばAIに仕事を手伝ってもらう側になっていました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python、GAS、BigQuery、GitHub、VPS、Claude Codeなどを、
+毎回調べながら触っています。
+
+## 今やっていること
+
+- AI業務改善ログ
+- Python自動化
+- GitHub練習
+- VPS運用
+- Claude Code実験
+- cron事故対応
+
+## 最近のAI事故
+
+- cronが止まっていた
+- GitHub Actionsがなぜ動いたのか分かっていない
+- Claudeが勝手にコードを消した
+- API料金を見て焦った
+
+## Philosophy
+
+「完全理解」より、
+「現場でなんとか動かす」を重視しています。
